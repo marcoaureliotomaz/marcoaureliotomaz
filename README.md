@@ -6,8 +6,8 @@
 <li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"></g-emoji> À procura de novos desafios.</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></g-emoji>  Buscando fazer parte de projetos que me desafiem.</li>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"></g-emoji> Minha stack: Delphi, PHP, ASP.Net, C#, Java, ADVPL, VB, SQLServer, MySQL, Firebird, HTML, CSS e JavaScript.</li>
-<li><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png"></g-emoji> Estudando: ReactJS, Node.js, React Native &amp; Typescript e Git.</li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Sobre mim: Apaixonado por solucionar problemas reais através da computação.</li>
+<li><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png"></g-emoji> Estudando: ReactJS, Node.js, React Native, Typescript e Git.</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Sobre mim: Apaixonado por solucionar problemas do mundo real usando tecnologia.</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> <a href="mailto:marcoaureliotomaz@gmail.com">marcoaureliotomaz@gmail.com</a></li>
 </ul>
 <p><code><a href="https://www.javascript.com/" rel="nofollow"><img height="25" src="https://camo.githubusercontent.com/5ffc0bad36a1136cb56ea1df57e5dc76ad2624e5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176617363726970742f6a6176617363726970742d686f72697a6f6e74616c2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" style="max-width:100%;"></a></code>
