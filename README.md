@@ -6,7 +6,7 @@
 <li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"></g-emoji> À procura de novos desafios.</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></g-emoji>  Buscando fazer parte de projetos que me desafiem.</li>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"></g-emoji> Minha stack: Delphi, PHP, ASP.Net, C#, Java, ADVPL, VB, SQLServer, MySQL, Firebird, HTML, CSS e JavaScript.</li>
-<li><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png"></g-emoji> Estudando: ReactJS, Node.js, React Native &amp; Typescript.</li>
+<li><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png"></g-emoji> Estudando: ReactJS, Node.js, React Native &amp; Typescript e Git.</li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Sobre mim: Apaixonado por solucionar problemas reais através da computação.</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> <a href="mailto:marcoaureliotomaz@gmail.com">marcoaureliotomaz@gmail.com</a></li>
 </ul>
