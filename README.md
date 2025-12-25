@@ -9,7 +9,7 @@
 Sou **programador por vocação**, pai de dois garotos maravilhosos, nerd de carteirinha e nas horas vagas praticante de **Jiu‑Jitsu**.  
 Gosto de aprender novas tecnologias, trabalhar com desafios em backend e full‑stack, e construir soluções que façam a diferença.
 
-📍 *Mossoró‑RN, Brasil* :contentReference[oaicite:4]{index=4}
+📍 *Mossoró‑RN, Brasil* 
 
 ---
 
