@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marco Aurélio Tomaz
 
-<!--
-**marcoaureliotomaz/marcoaureliotomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="200" src="https://github.com/marcoaureliotomaz.png" alt="Avatar do Marco Aurélio">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou **programador por vocação**, pai de dois garotos maravilhosos, nerd de carteirinha e nas horas vagas praticante de **Jiu‑Jitsu**.  
+Gosto de aprender novas tecnologias, trabalhar com desafios em backend e full‑stack, e construir soluções que façam a diferença.
+
+📍 *Mossoró‑RN, Brasil* :contentReference[oaicite:4]{index=4}
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+Essas são as tecnologias que mais uso no meu dia a dia:
+
+```md
+💻 Linguagens:
+- JavaScript
+- TypeScript
+- Java
+- Go
+
+🚀 Backend:
+- Node.js
+- Spring Boot
+- Kafka
+
+📦 DevOps & Infra:
+- Docker
+- GitHub Actions
+
