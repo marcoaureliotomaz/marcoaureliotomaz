@@ -1,11 +1,5 @@
 # 👋 Olá, eu sou Marco Aurélio Tomaz
 
-<p align="center">
-  <img width="200" src="https://github.com/marcoaureliotomaz.png" alt="Avatar do Marco Aurélio">
-</p>
-
----
-
 ## 🚀 Sobre mim
 
 Sou **Engenheiro de Software Sênior** com foco em **Backend Java** e **Inteligência Artificial**.  
@@ -35,27 +29,6 @@ Me interesso por:
 - **DevOps & Infra:** Docker, GitHub Actions, CI/CD, Pipelines  
 - **Inteligência Artificial:** Modelos de ML, AI aplicado a sistemas corporativos  
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB  
-
----
-
-## 📌 Projetos Relevantes
-
-| Projeto | Linguagem | Descrição |
-|---------|-----------|-----------|
-| `Arena Pro Manager` | Java + Angular | Sistema de gerenciamento de torneios, microservices e arquitetura modular |
-| `kafkaPOC` | Java | Prova de conceito com Kafka e mensageria de alta performance |
-| `DevFullCycle-Docker-Go` | JS + Docker | Pipeline CI/CD e automação em containers |
-| `React-Native-AppEstudo` | TypeScript | App mobile de estudos (exemplo de integração com backend) |
-
-> Outros projetos mostram aplicações práticas de backend corporativo e AI.
-
----
-
-## 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcoaureliotomaz&show_icons=true&theme=radical" alt="Estatísticas GitHub">
-</p>
 
 ---
 
